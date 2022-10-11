@@ -1,0 +1,16 @@
+clientid 
+850667fec90641a8b8d1174e0f979d68
+
+
+
+// ---------->
+
+// import { useEffect } from 'react';
+
+// function User({ name }) {
+//   useEffect(() => {
+//     document.title = name;
+//   }, [name]);
+    
+//   return <h1>{name}</h1>;   
+// }
